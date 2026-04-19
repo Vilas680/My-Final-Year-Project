@@ -1,5 +1,5 @@
 # 🛡️ My Final Year Project  
-## AI-Powered Voice Assistant With Vulnerabilities Scanner And Phishing URL-Detection
+## AI-Powered Voice Assistant With Web Vulnerabilities Scanner And Phishing URL-Detection
 
 ![Project Banner](https://img.shields.io/badge/Project-Final%20Year-blue?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/Backend-PHP-orange?style=for-the-badge)
