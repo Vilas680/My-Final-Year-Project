@@ -232,13 +232,6 @@ http://localhost/My-Final-Year-Project/frontend/login.html
 **Vilas680**
 BCS Final Year Student
 
----
-
-# 📜 License
-
-This project is developed for **Educational Purpose Only**.
-
----
 
 # ⭐ Support
 
